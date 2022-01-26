@@ -1,0 +1,6 @@
+https://ftp.arin.net/pub/stats/arin/delegated-arin-extended-latest
+https://ftp.ripe.net/ripe/stats/delegated-ripencc-extended-latest
+https://ftp.apnic.net/stats/apnic/delegated-apnic-extended-latest
+https://ftp.apnic.net/stats/afrinic/delegated-afrinic-extended-latest
+https://ftp.apnic.net/stats/lacnic/delegated-lacnic-extended-latest
+
